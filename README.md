@@ -35,15 +35,15 @@ Final Output → Pass (majority vote)
 
 Advantages
 
-✔ High accuracy
-✔ Reduces overfitting
-✔ Works well with large datasets
-✔ Handles missing values well
+=> High accuracy
+=> Reduces overfitting
+=> Works well with large datasets
+=> Handles missing values well
 
 Disadvantages
 
-✖ Slower with many trees
-✖ Harder to interpret than a single decision tree
+(=>) Slower with many trees
+(=>) Harder to interpret than a single decision tree
 
 Applications
 Fraud detection
